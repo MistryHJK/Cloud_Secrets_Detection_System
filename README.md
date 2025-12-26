@@ -49,13 +49,13 @@ The solution follows **DevSecOps principles** by integrating security checks ear
 ## High-Level Architecture
 
 User
-↓
+->
 Node.js REST API (GCP Cloud Run)
-↓
+->
 Java Security Scanner Engine
-↓
+->
 Scan Results (JSON)
-↓
+->
 AWS S3 (Secure Storage)
 
 
@@ -131,4 +131,4 @@ Through this project, I learned:
 
 ## Author
 Henil Mistry 
-Aspiring Software Engineer | Security & DevOps Enthusiast
+Exploring the Future of Intelligent Machines | ☁️ AWS Cloud Enthusiast| Security & DevOps Enthusiast
